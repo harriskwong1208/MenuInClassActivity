@@ -12,7 +12,7 @@ import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
 import android.widget.TextView
-
+//
 class MainActivity : AppCompatActivity() {
 
     var binder: TimerService.TimerBinder? = null
